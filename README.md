@@ -6,6 +6,17 @@ The main reason for this to exist: Sometimes when I was playing with my friends,
 
 This library might be extended to choose between relay connection and NAT traversal based on ping.
 
+## Building
+
+Use Visual Studio 2019 to build the project.
+
+## Installation
+
+- Rename `steam_api.dll` in your AoE HD folder to `valve_api.dll`
+- Copy `steam_api.dll` that was built before to your AoE HD folder.
+
+Note that you cannot connect to other players that are not using this library.
+
 ## License
 
 This project is licensed under MIT License.
