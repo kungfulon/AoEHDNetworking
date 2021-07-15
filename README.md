@@ -20,3 +20,5 @@ Note that you cannot connect to other players that are not using this library.
 ## License
 
 This project is licensed under MIT License.
+
+This project uses Steamworks SDK. The license is available at https://partner.steamgames.com/documentation/sdk_access_agreement. 
