@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AoEHDNetworking", "AoEHDNetworking\AoEHDNetworking.vcxproj", "{D7C9B049-9956-482B-B471-677E00927EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C9B049-9956-482B-B471-677E00927EAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7C9B049-9956-482B-B471-677E00927EAF}.Debug|x86.Build.0 = Debug|Win32
+		{D7C9B049-9956-482B-B471-677E00927EAF}.Release|x86.ActiveCfg = Release|Win32
+		{D7C9B049-9956-482B-B471-677E00927EAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2059B640-6773-451D-A301-7BDD9E99BAD3}
+	EndGlobalSection
+EndGlobal
